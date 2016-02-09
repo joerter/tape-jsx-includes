@@ -1,6 +1,6 @@
 {
   "name": "tape-jsx-includes",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "tape extension to assert one jsx string includes another",
   "main": "dist/index.js",
   "scripts": {
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/joerter/tape-jsx-includes#readme",
   "dependencies": {
+    "collapse-white-space": "^1.0.0",
     "react-element-to-jsx-string": "^2.4.0"
   },
   "devDependencies": {
